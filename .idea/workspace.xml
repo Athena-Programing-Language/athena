@@ -12,8 +12,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d72002-1c58-48b9-a4de-f9b2540bcfb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/parser/src/lexer.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parser/src/token.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/athena-parser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.cargo-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-2d13dd80a25d852b/bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-2d13dd80a25d852b/bin-athena.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-2d13dd80a25d852b/dep-bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-2d13dd80a25d852b/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-e7d2c86f696af96d/dep-test-bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-e7d2c86f696af96d/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-e7d2c86f696af96d/test-bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-e7d2c86f696af96d/test-bin-athena.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-f5558d6b03d92323/bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-f5558d6b03d92323/bin-athena.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-f5558d6b03d92323/dep-bin-athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/.fingerprint/athena-f5558d6b03d92323/invoked.timestamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/athena" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/athena.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/athena-2d13dd80a25d852b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/athena-2d13dd80a25d852b.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/athena-e7d2c86f696af96d.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/athena-f5558d6b03d92323.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libathena-e7d2c86f696af96d.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/deps/libathena-f5558d6b03d92323.rmeta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-1wrhhe58il6dm/s-gziw3amqhf-cdg4sr-7xh34mscsts551028d25viqod/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-1wrhhe58il6dm/s-gziw3amqhf-cdg4sr-7xh34mscsts551028d25viqod/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-1wrhhe58il6dm/s-gziw3amqhf-cdg4sr-7xh34mscsts551028d25viqod/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-1wrhhe58il6dm/s-gziw3amqhf-cdg4sr.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/1wg32ktkfor6zhkt.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/22g3b0j09d2kzyb2.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/25d62so13bhae374.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/3imihs9exh4s9ohr.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/3sbixpdty84zp3nc.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/cbdj5dbal5daa8v.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr-2f4lsl1npiypy2tbj7m6yknfc/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-3kkpy4p51u8db/s-gzj1n03qig-13nh1fr.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-k3alr3bb0abx/s-gziw3amqin-pzgmu7-afu6p90ucdzyje90j38mfn7kk/dep-graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-k3alr3bb0abx/s-gziw3amqin-pzgmu7-afu6p90ucdzyje90j38mfn7kk/query-cache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-k3alr3bb0abx/s-gziw3amqin-pzgmu7-afu6p90ucdzyje90j38mfn7kk/work-products.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/debug/incremental/athena-k3alr3bb0abx/s-gziw3amqin-pzgmu7.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hrivnochka-shop" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +77,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MacroExpansionManager">
@@ -54,8 +102,8 @@
     &quot;Cargo.Run aphina.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kovalenko/my-app/athena/src/parser&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kovalenko/my-app/athena/src/athena-parser&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
@@ -75,6 +123,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/parser" />
       <recent name="$PROJECT_DIR$/src/parser/src" />
     </key>
@@ -136,6 +185,7 @@
       <workItem from="1725117336474" duration="14485000" />
       <workItem from="1725167832140" duration="5530000" />
       <workItem from="1725190520213" duration="166000" />
+      <workItem from="1725466239987" duration="442000" />
     </task>
     <servers />
   </component>
