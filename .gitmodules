@@ -1,0 +1,9 @@
+[submodule "/home/kovalenko/my-app/athena/src/parser"]
+	path = /home/kovalenko/my-app/athena/src/parser
+	url = https://github.com/AANDDARK/athena-parser.git
+[submodule "src/athena"]
+	path = src/athena
+	url = https://github.com/Athena-Programing-Language/athena
+[submodule "src/athena-parser"]
+	path = src/athena-parser
+	url = https://github.com/Athena-Programing-Language/athena-parser.git
